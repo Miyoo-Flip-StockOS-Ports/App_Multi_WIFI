@@ -1,6 +1,6 @@
 {
-	"label":	"WIFI",
-	"icon":	"/mnt/SDCARD/Icons/Default/app/terminal.png",
+	"label":	"Multi WIFI",
+	"icon":	"",
 	"launch":	"launch.sh",
-	"description":	"Adds current WIFI password to the list"
+	"description":	"Adds current WIFI password to the config"
 }
